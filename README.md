@@ -11,6 +11,9 @@
 > * Compact Rifle
 > * Special Carbine MK II
 > * Special Carbine
+> * Service Carbine
+> * Military Rifle
+> * Heavy Rifle
   
 ### Heavy Weapons
 > * Compact Grenade Launcher
@@ -21,6 +24,7 @@
 > * Railgun
 > * RPG
 > * Widowmaker
+> * Compact EMP Launcher
 
 ### LMGs
 > * Combat MG MK II
@@ -48,6 +52,7 @@
 > * Pool Cue
 > * Stone Hatchet
 > * Switchblade
+> * Candy Cane
 
 ### Pistols
 > * AP Pistol
@@ -66,6 +71,9 @@
 > * Stun gun
 > * Up-n-Atomizer
 > * Vintage Pistol
+> * Ceramic Pistol
+> * Navy Revolver
+> * Perico Pistol
 
 ### SMGs
 > * Assault SMG
@@ -75,6 +83,7 @@
 > * Mini SMG
 > * SMG MK II
 > * SMG
+> * Tactical SMG
 
 ### Shotguns
 > * Assault Shotgun
@@ -86,6 +95,7 @@
 > * Pump Shotgun
 > * Sawed-off Shotgun
 > * Sweeper Shotgun
+> * Combat Shotgun
 
 ### Sniper Rifles
 > * Heavy Sniper MK II
@@ -94,6 +104,7 @@
 > * Marksman Rifle
 > * Remote Sniper
 > * Sniper Rifle
+> * Precision Rifle
 
 ### Thrown & Utility
 > * Ball
